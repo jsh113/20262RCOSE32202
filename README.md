@@ -67,3 +67,13 @@ I noticed that periods of low and high bandwidth often appeared repeatedly.
 I tested different bidding strategies to handle these changes.
 
 It was difficult to predict the bandwidth, so I tried to make the algorithm work well under different conditions.
+
+## Algorithm Design
+
+I designed the algorithm to adjust bidding values based on previous results.
+
+The algorithm considered factors such as bandwidth, packet loss, and remaining data.
+
+I also tested different strategies to find a balance between high transmission rates and low penalties.
+
+Some strategies worked well in Week 1 but performed poorly in Week 2, so finding a strategy that worked in both weeks was challenging.
