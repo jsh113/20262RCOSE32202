@@ -47,3 +47,13 @@ A high penalty made it harder to transmit data efficiently in later rounds.
 At first, I tried to send more data by increasing the requested bandwidth, but this often caused losses.
 
 I learned that avoiding penalties was just as important as sending a large amount of data.
+
+## Week 1 Experiment
+
+In Week 1, I tested different bidding values to find a good way to transmit data.
+
+At first, I tried using higher bids, but this sometimes caused packet loss and penalties.
+
+I compared the results of several tests and adjusted the bidding values to improve performance.
+
+Through these experiments, I learned that sending more data does not always lead to better results.
