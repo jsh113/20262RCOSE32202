@@ -37,3 +37,13 @@ In our project, requesting too much bandwidth could cause packet loss and a pena
 After a loss occurred, I had to wait several rounds before sending data again.
 
 Because of this, I tried to adjust the requested bandwidth to avoid unnecessary losses.
+
+## Penalty System
+
+In our project, a penalty was applied when the requested bandwidth exceeded the available bandwidth.
+
+A high penalty made it harder to transmit data efficiently in later rounds.
+
+At first, I tried to send more data by increasing the requested bandwidth, but this often caused losses.
+
+I learned that avoiding penalties was just as important as sending a large amount of data.
