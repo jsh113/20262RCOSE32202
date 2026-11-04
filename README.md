@@ -87,3 +87,13 @@ The goal was to send as much data as possible within 1,000 rounds.
 I compared different algorithms by checking how much data remained after each experiment.
 
 An algorithm with less remaining data generally performed better.
+
+## Simulation and Testing
+
+I ran several simulations to compare different algorithms.
+
+I tested them under different bandwidth conditions to see how their performance changed.
+
+Some algorithms worked well in certain situations but had worse results in others.
+
+By comparing the results, I tried to find a strategy that could perform consistently across different network conditions.
