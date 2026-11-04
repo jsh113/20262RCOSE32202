@@ -27,3 +27,13 @@ In our project, the available bandwidth changed every round, so it was difficult
 If the requested amount was too high, it could cause packet loss. However, sending too little data also reduced the total amount of data transmitted.
 
 I had to consider both situations when designing the algorithm.
+
+## Packet Loss
+
+Packet loss occurs when data fails to reach its destination.
+
+In our project, requesting too much bandwidth could cause packet loss and a penalty.
+
+After a loss occurred, I had to wait several rounds before sending data again.
+
+Because of this, I tried to adjust the requested bandwidth to avoid unnecessary losses.
