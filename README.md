@@ -77,3 +77,13 @@ The algorithm considered factors such as bandwidth, packet loss, and remaining d
 I also tested different strategies to find a balance between high transmission rates and low penalties.
 
 Some strategies worked well in Week 1 but performed poorly in Week 2, so finding a strategy that worked in both weeks was challenging.
+
+## Remaining Data
+
+In this project, each player started with a certain amount of data to transmit.
+
+The goal was to send as much data as possible within 1,000 rounds.
+
+I compared different algorithms by checking how much data remained after each experiment.
+
+An algorithm with less remaining data generally performed better.
