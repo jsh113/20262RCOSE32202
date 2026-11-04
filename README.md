@@ -57,3 +57,13 @@ At first, I tried using higher bids, but this sometimes caused packet loss and p
 I compared the results of several tests and adjusted the bidding values to improve performance.
 
 Through these experiments, I learned that sending more data does not always lead to better results.
+
+## Week 2 Experiment
+
+In Week 2, the available bandwidth changed more frequently than in Week 1.
+
+I noticed that periods of low and high bandwidth often appeared repeatedly.
+
+I tested different bidding strategies to handle these changes.
+
+It was difficult to predict the bandwidth, so I tried to make the algorithm work well under different conditions.
